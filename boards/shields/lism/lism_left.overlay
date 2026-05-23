@@ -1,1 +1,3 @@
 #include "lism.dtsi"
+
+#include <behaviors/battery_history_request.dtsi>
